@@ -1,0 +1,1 @@
+global.seekhead_dragging = false;
